@@ -2,8 +2,8 @@
 // Created by mfleres on 9/18/20.
 //
 
-#ifndef GRIDWORLD_DIRECTIONS_H
-#define GRIDWORLD_DIRECTIONS_H
+#ifndef DIRECTIONS_H
+#define DIRECTIONS_H
 
 #include <string>
 #include <glm/glm.hpp>
@@ -59,4 +59,4 @@ namespace util {
     };
 }
 
-#endif //GRIDWORLDSDL_DIRECTIONS_H
+#endif //DIRECTIONS_H
